@@ -1,4 +1,4 @@
-const blindBackrunJSON = require('./utils/BlindBackrunFlashLoan.json')
+const blindBackrunJSON = require('./utils/BlindBackrunFlashLoan.json')//added flashloan instead of pure arbitrage 
 const ethers = require('ethers')
 const Web3EthAbi = require('web3-eth-abi')
 const config = require('./utils/config.json')
